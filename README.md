@@ -1,2 +1,10 @@
 # C-Programming
-My C programming practice and college practicals.
+## About This Repository
+This repository contains my college assignments.
+
+###Topics Covered
+-Variables
+-Loops
+-Arrays
+-Recursion function
+-Switch case 
