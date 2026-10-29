@@ -24,7 +24,7 @@ I will update this list to reflect the topics covered in my coursework.
 | Assignment | File |
 |---|---|
 | Assignment 5 | [View code](assignment5.c) |
-| Assignment 1 | [View code](assignment7.c) |
+| Assignment 7 | [View code](assignment7.c) |
 
 # 🛠️ Language and Tools
 - Programming language: C
