@@ -1,5 +1,5 @@
 /*
- * Assignment 5
+ * Assignment 7
  * Description: [This program store and process experimental data for ‘n’ bioengineering samples.]
  * Language: C
  */
