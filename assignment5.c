@@ -1,3 +1,9 @@
+/*
+ * Assignment 5
+ * Description: [all string operations (In built functions).]
+ * Language: C
+ */ 
+
 #include<stdio.h>
 #include<string.h>
 #include<stdlib.h>
