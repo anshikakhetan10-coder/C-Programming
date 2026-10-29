@@ -1,3 +1,8 @@
+/*
+ * Assignment 5
+ * Description: [This program store and process experimental data for ‘n’ bioengineering samples.]
+ * Language: C
+ */
 #include <stdio.h>
 struct Sample
 {
